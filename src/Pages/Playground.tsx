@@ -1,5 +1,4 @@
 import React, { ReactElement } from 'react'
-// @ts-ignore
 import useCurrentRoute from '@easyroute/react/useCurrentRoute'
 
 function PlaygroundPage(props: any): ReactElement {

@@ -1,6 +1,5 @@
 import React, { ReactElement, useEffect, useRef, useState } from 'react'
 import MarkdownIt from 'markdown-it'
-// @ts-ignore
 import useCurrentRoute from '@easyroute/react/useCurrentRoute'
 
 function MarkdownPage(): ReactElement {
